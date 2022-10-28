@@ -1,0 +1,405 @@
+*{
+    box-sizing: border-box;
+}
+body {
+  background-color: #21272F;
+  margin: 0px;
+  font-family: 'Dela Gothic One', cursive;
+  letter-spacing: 2px;
+  
+   
+}
+body {
+    background-image:url(/images/fondodefinity.png);
+    
+}
+
+.logotipo {
+    margin-top: 20px;
+    margin-left: 74px;
+    height: 0px;
+    border-radius: [object Object]px;
+    
+}
+
+.cont{
+    position: absolute;
+    margin-left: 1005px;
+    transition: all;
+    
+}
+
+.uno {
+    color: white;
+    text-decoration: none;
+}
+.dos{
+    color: white;
+    text-decoration: none;
+}
+.tres{
+    color: white;
+    text-decoration: none;
+}
+.cuatro{
+    color: white;
+    text-decoration: none;
+}
+.container1 h1 {
+    margin-left: 184px;
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    margin-top: 5px;
+    
+    
+}
+.container1 nav {
+    margin-left: 184px;
+    position: absolute;
+    margin-top: 34px;
+    margin-left: 720px;
+
+}
+.home{
+    position: absolute;
+    bottom: 0px;
+    right: 68px;
+    transition: all;
+}
+.home:hover{
+    transform: scale(1.15);
+   
+}
+.proyect {
+    margin-left: 0px;
+    position: absolute;
+    bottom: 0px;
+    transition: all;
+}
+.proyect:hover{
+    transform: scale(1.15);
+   
+}
+
+.resume {
+    margin-left: 150px;
+    position: absolute;
+    bottom:0px;
+    transition: all;
+}
+.resume:hover{
+    transform: scale(1.15);
+   
+}
+.contact {
+    margin-left: 300px ;
+    position: absolute;
+    bottom: 0px;
+    transition: all;
+}
+.contact:hover{
+    transform: scale(1.15);
+   
+}
+.contact b {
+    margin-left: 3px;
+    letter-spacing: 3px;
+    position: absolute;
+    transition: all;
+}
+.foto {
+    position: absolute;
+    top:150px ;
+    margin-left: 480px;
+    bottom: 0px;
+}
+.container-hero {
+    margin-top: 220px;
+    margin-left: 199px;
+    color: white;
+}
+.container-hero h2 {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    letter-spacing: 3px;
+
+     
+}
+.container-hero h1 b{
+    color: #00BD95;
+   
+}
+.name{
+    color: white;
+    position: absolute;
+    top: 2px;
+    margin-top: 266px;
+    margin-left: 175px;
+    font-size: 30px;
+}
+.espace {
+    font-size: 80px;
+    color: #21272F;
+    opacity: 0;
+    
+}
+.cuadrados{
+    margin-left: 75px;
+   display: flex;
+    
+  
+}
+.containerservice  {
+    background-color: #171C23;
+    
+}
+.containerservice h3{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    
+ 
+}
+.containerservice h3 b{
+    font-size: 35px;
+    color: white;
+}
+.containerservice h3 a{
+    color: #00BD95;
+}
+
+.block-service1 {
+    
+    
+    font-size: 35px;
+    left: 90px;
+    top: 0;
+    margin-top: 880px;
+    position: absolute;
+    
+}
+.block-service2 {
+   
+    
+    font-size: 35px;
+    left: 500px;
+    top: 0;
+    margin-top: 880px;
+    position: absolute;
+    
+
+}
+.block-service3 {
+   
+    
+    font-size: 35px;
+    left: 910px;
+    top: 0;
+    margin-top: 880px;
+    position: absolute;
+    
+    
+}
+.img1 {
+    margin-left: 80px;
+    margin-top: 10px;
+    
+}
+.img2 {
+    margin-left: 80px;
+    margin-top: 10px;
+    
+}
+.img3 {
+    margin-left: 90px;
+    margin-top: 10px;
+    
+}
+.text1 h4 {
+    font-size: 18px;
+    margin-left: 20%;
+    color: white;
+    letter-spacing: 3px;
+}
+.text2 h4 {
+    font-size: 18px;
+    margin-left: 7%;
+    color: white;
+    letter-spacing: 3px;
+}
+.text3 h4 {
+    margin-top: 40px;
+    font-size: 18px;
+    margin-left: 25%;
+    color: white;
+    letter-spacing: 3px;
+}
+.text1 h5{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+.text2 h5{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+.text3 h5{
+    margin-top: 55px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+.espace2{
+    font-size: 50px;
+    background-color:#171C23 ;
+    margin-top: 0px;
+    color: #171C23;
+}
+.containerproyec h2{
+    display: block;
+    text-align: center;
+    color: white;
+    letter-spacing: 3px;
+}
+.containerproyec h2 b{
+    color: #00BD95;
+   
+}
+.letrita{
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 40px;
+    
+}
+.img5 img {
+    margin-left: 50px;
+    position: absolute;
+}
+.container-footer {
+    margin-top: 720px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 3px;
+}
+.container-footer b {
+    color: #00BD95;
+    font-size: 28px;
+}
+.boton {
+    font-size: 30px;
+    background: #00BD95;
+    position: absolute;
+    margin-left: 20px;
+    border-color: #00BD95;
+    margin-top: 50px;
+
+ }
+ .botonimg{
+    position: absolute;
+    margin-top: 50px;
+}
+ .boton b {
+    cursor: pointer;
+    font-size: 25px;
+    color: white;
+    
+ }
+ .texto{
+    font-size: 18px;
+    letter-spacing: 2px;
+ }
+ .iconos {
+   margin-left: 100px;
+   display: inline-block;
+ }
+ .link{
+    position: absolute;
+    margin-left: 200px;
+    transition: all;
+ }
+ .link:hover{
+    transform: scale(1.1);
+    
+}
+ .what{
+    position: absolute;
+    margin-left: 400px;
+    transition: all;
+ }
+ .what:hover{
+    transform: scale(1.1);
+ }
+ .ig{
+    position: absolute;
+    margin-left: 600px;
+    transition: all;
+ }
+ .ig:hover{
+    transform: scale(1.1);
+ }
+ .git{
+    position: absolute;
+    margin-left: 800px;
+    transition: all;
+  
+}
+.git:hover{
+    transform: scale(1.1);
+    
+}
+ .video {
+    position: absolute;
+    margin-left: 238px;
+    margin-top: 17px;
+   
+ }
+ .draw {
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 188px;
+ }
+ .botonview {
+    font-size: 30px;
+    background: #00BD95;
+    position: absolute;
+    margin-left: 1158px;
+    border-color: #00BD95;
+    margin-top: 615px;
+    cursor: pointer;
+ }
+ .botonview b {
+    font-size: 25px;
+    color: white;
+ }
+ .botonview1 {
+    font-size: 30px;
+    background: #00BD95;
+    position: absolute;
+    margin-left: 1155px;
+    border-color: #00BD95;
+    margin-top: 151px;
+    cursor: pointer;
+   
+}
+ .botonview1 b {
+    font-size: 25px;
+    color: white;
+ }
+.final {
+    font-size:55px;
+    color: #21272F;
+}
+.tecno{
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 240px;
+}
+.figma{
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 30px;
+}
